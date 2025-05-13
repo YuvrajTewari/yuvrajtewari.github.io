@@ -1,0 +1,17 @@
+title: Yuvraj Tewari
+description: RF Engineer | Dept. of Electrical & Electronics Communication | IIT Kharagpur
+# theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+  # - jekyll-paginate
+repository: MyUser/my-repo
+
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
+
