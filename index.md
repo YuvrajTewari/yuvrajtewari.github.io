@@ -1,6 +1,6 @@
 ---
 theme: jekyll-theme-cayman
-title: "YUVRAJ TEWARI"
+title: "Yuvraj Tewari"
 subtitle: "Graduate Teaching Assistant | M.Tech in RF & Microwave Engineering | Indian Institute of Technology Kharagpur"
 ---
 
