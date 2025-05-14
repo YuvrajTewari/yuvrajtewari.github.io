@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
-title: "Yuvraj Tewari"
-subtitle: "Graduate Teaching Assistant | MSc in Statistics | Miami University"
+title: "YUVRAJ TEWARI"
+subtitle: "Graduate Teaching Assistant | M.Tech in RF & Microwave Engineering | Indian Institute of Technology Kharagpur"
 ---
 
 
